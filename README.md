@@ -1,6 +1,6 @@
-This is a only minimum copy of the Swagger Editor repository: https://github.com/swagger-api/swagger-editor.
+* This is a only minimum copy of the Swagger Editor repository: https://github.com/swagger-api/swagger-editor.
 The original one is too big and sometimes hard to clone/download. This is created only for convenience.
-这是Swagger Editor的一个最小文件集。因为原版比较大，有时很难下载成功，所以建了这个，只是为方便起见。
+* 这是Swagger Editor的一个最小文件集。因为原版比较大，有时很难下载成功，所以建了这个，只是为方便起见。
 
 # <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWE-logo-clr.png" height="80">
 [![NPM version](https://badge.fury.io/js/swagger-ui.svg)](http://badge.fury.io/js/swagger-editor)
